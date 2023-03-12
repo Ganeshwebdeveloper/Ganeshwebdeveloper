@@ -1,12 +1,14 @@
-[![Background Image](https://images.unsplash.com/photo-1520624598504-ed830bd895d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)]
 [![Followers](https://img.shields.io/github/followers/Ganeshwebdeveloper)](#)
 ![Profile views](https://gpvc.arturio.dev/Ganeshwebdeveloper)
-# Hi there! 👋
 
-I'm **Ganesh Kumar** from Vizag, India. 
+# Hi there!  <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e478dswvjl3pxjfuiwqajy1u5c27g5k8l1942qq66sj&rid=giphy.gif&ct=s"  width = "12%" height= "100" align = "center" > I'm <a href="https://github.com/Ganeshwebdeveloper/">Ganesh Kumar</a>
+
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&weight=700&duration=4000&pause=1500&color=008080&background=FFFFFF00&width=700&height=51&lines=Technical+Support+Engineer" alt="Typing SVG" /></a>
 </p>
+
+
+<img src="https://media1.giphy.com/media/zBSmegjNjsfVR7Hs5I/giphy.gif?cid=ecf05e47h8nxco5zc6lhrg8ae7pzhmbu2vq582onhwydwo44&rid=giphy.gif&ct=g" width="40%" height="250" align="right" top="0" />
 
 To obtain a challenging **Tech Support Engineer** role that
 allows me to utilize my technical skills and passion for
@@ -24,16 +26,19 @@ learning and improving my technical expertise.
 
 
 ## 🚀 Skills
+| Technical Skills | Customer Service Skills | Soft Skills |
+|------------------|------------------------|-------------|
+| Linux            | Active Listening        | Teamwork    |
+| MySql            | Communication           | Problem Solving |
+| Shell Scripting  | Patience                | Leadership |
+| Networking       | Troubleshooting         |             |
+| HTML             |                         |             |
+| CSS              |                         |             |
+| JavaScript       |                         |             |
+| ReactJS          |                         |             |
+| Redux            |                         |             | 
 
-I am skilled in:
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **ReactJS**
-- **Redux**
-- **React Router**
-- **NodeJS**
 
 I am also proficient in data structures and algorithms.
 
@@ -41,34 +46,14 @@ I am also proficient in data structures and algorithms.
 
 You can find me on:
 
-- [GitHub](https://github.com/Ganeshwebdeveloper)
-- [LinkedIn](https://www.linkedin.com/in/ganesh-kumar-3723471b1/)
-
-Check out my [Portfolio](https://Ganeshwebdeveloper.github.io)!
+- Check my collabrations [GitHub](https://github.com/Ganeshwebdeveloper)
+- Contact me on [LinkedIn](https://www.linkedin.com/in/kganeshwebdeveloper/)
+- Check out my [Portfolio](https://Ganeshwebdeveloper.github.io)!
+- Message me on [kganesh011995@gmail.com](mailto:kganesh011995@gmail.com)
 
 ## 💻 Languages and Tools
 
 Here are some of the languages and tools that I am proficient in:
 
-- **C**
-- **HTML**
-- **CSS**
-- **SCSS**
-- **PYTHON with Django**
-- **JavaScript**
-- **Linux (CLI)**
-- **NPM**
-- **Bootstrap**
-- **Wordpress**
-- **CSS Animation**
-- **PHP**
-- **GITBASH**
-- **React**
-- **Redux**
-- **Material UI**
-- **TypeScript**
-- **NodeJS Express JS**
-- **MongoDB**
-- **Soft Skills**
 
 Thank you for visiting my profile! 😊
