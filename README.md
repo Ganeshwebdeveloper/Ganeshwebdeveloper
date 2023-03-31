@@ -11,12 +11,9 @@
 <img src="https://media1.giphy.com/media/zBSmegjNjsfVR7Hs5I/giphy.gif?cid=ecf05e47h8nxco5zc6lhrg8ae7pzhmbu2vq582onhwydwo44&rid=giphy.gif&ct=g" width="40%" height="250" align="right" top="0" />
 
 To obtain a challenging **Tech Support Engineer** role that
-allows me to utilize my technical skills and passion for
+allows to utilize my technical skills and passion for
 problem-solving to assist customers with their technical issues
-and contribute to the growth of the organization. As a highly
-motivated and detail-oriented individual, I am committed to
-providing excellent customer service and continuously
-learning and improving my technical expertise.
+and contribute to the growth of the organization.
 
 
 ## 🌱 What do I do?
